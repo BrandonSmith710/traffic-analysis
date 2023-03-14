@@ -1,2 +1,2 @@
 # traffic-analysis
-In this repository I look at internet traffic I generated and protocol attacks I performed within a network of virtual machines. Included are the analytics notebook, port probing scripts, and arp spoof detection script.
+In this repository I look at internet traffic generated and protocol attacks performed within a network of my own virtual machines. Included are the analytics notebook, port probing scripts, arp spoof detection script, and packet capture file which has been converted to CSV format.
